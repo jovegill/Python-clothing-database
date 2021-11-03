@@ -1,1 +1,2 @@
 # Python-clothing-database
+This project creates a GUI using Python's tkinter library to represent a database at a clothing store. The user can add, delete, or update items in the database using the GUI because of the queries implemented. SQLite was used as the database for this project. There is also an additional functionality where the user can find out the top-selling item which is visible on the GUI as a button. 
